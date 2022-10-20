@@ -1,0 +1,9 @@
+@mixin links($color) {
+    color: $color;
+    outline: none;
+    text-decoration: none;
+}
+
+@mixin escondido() {
+    display: none;
+}
